@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/MasonZMZ/stargazers"><img src="https://img.shields.io/github/stars/MasonZMZ?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MasonZMZ" alt="visitors"/>   
 </p>
 
 
