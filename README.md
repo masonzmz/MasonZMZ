@@ -50,3 +50,6 @@ Here are some ideas to get you started:
 | Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![MasonZMZ's github stats](https://github-readme-stats.vercel.app/api?username=MasonZMZ&show_icons=true&theme=radical&include_all_commits=true) | ![MasonZMZ's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MasonZMZ&theme=radical&layout=compact) |
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MasonZMZ&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
+
