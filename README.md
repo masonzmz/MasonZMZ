@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Mingzhe+Zhang;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+NLP+;The+University+of+Queensland!)](https://git.io/typing-svg)
