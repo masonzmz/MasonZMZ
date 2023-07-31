@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Mingzhe Zhang's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MasonZMZ&hide_border=true&theme=redical)
 
 | Stats                                                                                                                                       | Languages                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
